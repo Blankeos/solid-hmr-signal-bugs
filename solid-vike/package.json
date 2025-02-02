@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "vike dev",
+    "build": "vike build",
+    "preview": "vike preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.9.4",
+    "vike-solid": "^0.7.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vike": "^0.4.220",
+    "vite": "^6.0.11"
+  },
+  "type": "module"
+}
