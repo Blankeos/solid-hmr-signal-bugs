@@ -1,4 +1,4 @@
-## Glaring question, why does Solid not persist state between HMRs?
+## Why does Solid not persist state between HMRs?
 
 To reproduce:
 
@@ -17,3 +17,5 @@ To reproduce:
 - ❌ solid-start - state is NOT persisted
 - ❌ solid-vike - state is NOT persisted
 - ❌ solid-vite - state is NOT persisted
+- ❌ svelte-vite - state is NOT persisted
+- ❌ svelte-kit - state is NOT persisted
